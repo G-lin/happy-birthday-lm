@@ -1,0 +1,1 @@
+{"version":3,"file":"Index.4f024e89.js","sources":["../../../src/views/demo/Index.vue"],"sourcesContent":["<template>\n    <router-view/>\n</template>\n<!--为了设置二级路由,占位用-->\n<script>\n    export default {\n        name: \"Index\"\n    }\n</script>"],"names":["name"],"mappings":"kDAKS,SACDA,KAAM"}
