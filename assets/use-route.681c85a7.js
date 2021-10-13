@@ -1,0 +1,1 @@
+import{m as r}from"./vendor.cacf07dc.js";var a={to:[String,Object],url:String,replace:Boolean};function o(r){var a=r.$router,{to:o,url:e,replace:t}=r;o&&a?a[t?"replace":"push"](o):e&&(t?location.replace(e):location.href=e)}function e(){var a=r().proxy;return()=>o(a)}export{o as a,a as r,e as u};
